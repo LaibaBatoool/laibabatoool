@@ -109,7 +109,7 @@ Semantic code-search and Q&A tool that lets developers query a codebase in natur
 | **Performance** | Sub-second semantic retrieval via FAISS indexing |
 | **Security** | Scoped API key handling, no raw code persisted in third-party calls |
 | **Impact** | Flagship portfolio project demonstrating applied RAG + agentic tool use |
-| **Repository** | [github.com/LaibaBatoool](https://github.com/LaibaBatoool/contextdump) |
+| **Repository** | [github.com/LaibaBatooo/contextdumpl](https://github.com/LaibaBatoool/contextdump) |
 
 A 4-tool LLM agent orchestrates retrieval, summarization, and code-search functions, powered by Groq for low-latency inference — built to demonstrate real-world RAG architecture beyond toy demos.
 
@@ -128,7 +128,7 @@ A RAG-based system that ingests documents and generates timed multiple-choice qu
 | **Performance** | Fast retrieval via ChromaDB vector store |
 | **Security** | Isolated session-based quiz history |
 | **Impact** | Includes timer, PDF export, and quiz history tracking |
-| **Repository** | [github.com/LaibaBatoool](https://github.com/LaibaBatoool/rag-mcqs-generator) |
+| **Repository** | [github.com/LaibaBatoool/rag-mcqs-generator](https://github.com/LaibaBatoool/rag-mcqs-generator) |
 
 Built to explore practical RAG use cases outside chat interfaces — turning static documents into interactive, gradeable assessments.
 
@@ -147,7 +147,7 @@ A backend access-control system implementing role-based permissions for secure, 
 | **Performance** | Middleware-based authorization checks with minimal overhead |
 | **Security** | Role-scoped route protection, secure session handling |
 | **Impact** | Demonstrates production-grade auth patterns used across modern SaaS backends |
-| **Repository** | [github.com/LaibaBatoool](https://github.com/LaibaBatoool/rbac-user-management) |
+| **Repository** | [github.com/LaibaBatoool/rbac-user-management](https://github.com/LaibaBatoool/rbac-user-management) |
 
 Designed to mirror real-world authorization patterns rather than a simplified tutorial version — built with extensibility for future role types in mind.
 
